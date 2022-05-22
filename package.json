@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@pact-foundation/pact": "^9.17.3"
+  }
+}
